@@ -1,0 +1,28 @@
+{
+    "domain_whitelist": [
+        "discord.co",
+        "discord.com",
+        "discord.gg",
+        "discord.gift",
+        "discord.gifts",
+        "discord.media",
+        "discord.new",
+        "discordapp.com",
+        "cdn.discordapp.com",
+        "media.discordapp.net",
+        "discordstatus.com",
+        "steamgames.com",
+        "steampowered.com",
+        "s.team",
+        "steamcommunity.com",
+        "c.tenor.com",
+        "tenor.com",
+        "twitter.com",
+        "twimg.com",
+        "twttr.net",
+        "twttr.com",
+        "abs.twimg.com"
+    ],
+    "server_settings": {
+    }
+}
