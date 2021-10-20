@@ -2,7 +2,7 @@
  A simple, lightweight anti phishing discord bot made with Pycord
  
 ## Key Features
-* Fast Detection Algorithm using Levenshtein Distance to calculate possible phishing links
+* Fast Detection Algorithm using [Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance) to calculate possible phishing links
 * Toggable customizable server-by-server settings
 * Customisable Domain list via an easily editable JSON file
 * Pycord implementation, for futureproofing
