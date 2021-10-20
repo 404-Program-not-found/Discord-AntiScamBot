@@ -1,4 +1,4 @@
-# AntiScamBot
+# Discord-AntiScamBot
  A simple, lightweight anti phishing discord bot made with Pycord
  
 ## Key Features
